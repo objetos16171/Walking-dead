@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mundo2()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ insertarJugador()
+comment3.params=
+comment3.target=void\ insertarMounstro()
+comment4.params=
+comment4.target=void\ insertarMeta()
+comment5.params=m
+comment5.target=void\ detenM(greenfoot.GreenfootSound)
+numComments=6
